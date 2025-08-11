@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, I'm Iqbal Masruri 👋
+
+![my header](img/github-header1.png)
 
 <!--
 **iqbalmasruri/iqbalmasruri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **Youtube**
+- 🌱 I’m currently learning [**Laravel**](htpps://laravel.com) Framework
+  😊😊
+
+  ![sasuke](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzQ2NHcxcHp3b2M2dWhkY2NxZjA2NHl2cnE4ejNuMjRmaXJwem8wZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/I6wUi5eTdUCWI/giphy.gif)
